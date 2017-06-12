@@ -403,7 +403,7 @@
             var Final = "Insufficent plate thickness. Change initial conditions (s, l)"
             }
             else  {
-                var Final = "Plate holds"
+                var Final = "Structure holds"
             }
         
                                     
